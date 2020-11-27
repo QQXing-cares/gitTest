@@ -1,5 +1,7 @@
 package com.atguigu;
 
+
+
 /**
  * @BelongsProject: gitTest
  * @BelongsPackage: com.atguigu
@@ -11,6 +13,8 @@ package com.atguigu;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("helloworld");
-        System.out.println("hello!world");
+        String s1 = new String();
+        s1 = "3dasd651";
+        System.out.println(s1);
     }
 }
